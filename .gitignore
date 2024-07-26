@@ -11,4 +11,24 @@ npm-debug.*
 web-build/
 
 # macOS
-.DS_Store
+expo-env.d.ts
+tsconfig.json
+app/_layout.tsx
+app/+html.tsx
+app/+not-found.tsx
+app/(tabs)/_layout.tsx
+app/(tabs)/explore.tsx
+app/(tabs)/index.tsx
+components/Collapsible.tsx
+components/ExternalLink.tsx
+components/HelloWave.tsx
+components/ParallaxScrollView.tsx
+components/ThemedText.tsx
+components/__tests__/ThemedText-test.tsx
+components/ThemedView.tsx
+components/navigation/TabBarIcon.tsx
+components/__tests__/__snapshots__/ThemedText-test.tsx.snap
+constants/Colors.ts
+hooks/useColorScheme.ts
+hooks/useColorScheme.web.ts
+hooks/useThemeColor.ts
